@@ -1,0 +1,5 @@
+#0 0x109a74540 in next_line get_next_line.c:84
+#1 0x109a74859 in get_next_line get_next_line.c:125
+#2 0x109a73460 in test_gnl_func file_utils.c:40
+#3 0x109a69e9f in main tester.c:117
+#4 0x7fff6771bcc8 in start+0x0 (libdyld.dylib:x86_64+0x1acc8)
